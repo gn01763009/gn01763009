@@ -10,15 +10,14 @@ I'm a **Senior Frontend Developer** and **Traveler** 🌴. I love traveling, sur
 
 When I'm not coding, you'll find me exploring new places, catching waves, or planning the next trip.
 
+<!-- 放 GIF：把檔案放到 repo（例如 assets/xxx.gif），再用下面語法 -->
+<!-- ![描述](assets/你的檔名.gif) -->
+
 ---
 
-## 📊 GitHub Stats
-
-[![Reggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gn01763009&show_icons=true&theme=default&hide_border=true)](https://github.com/gn01763009)
+## 📊 Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gn01763009&theme=default&hide_border=true)](https://github.com/gn01763009)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gn01763009&layout=compact&theme=default&hide_border=true)](https://github.com/gn01763009)
 
 ---
 
